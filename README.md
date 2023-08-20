@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Stefan. I'm an Android Developer and UI Designer. 
+- 👋 Hi, my name is Stefan. I'm an Android Developer, Content Creator and Technology Enthusiast. 
 - Love sharing my knowledge with others, and always willing to learn more as well.
 - 📫 Find me on YouTube: https://www.youtube.com/c/StevdzaSan
 - 🌟 Check out my online courses: https://stevdza-san.com
