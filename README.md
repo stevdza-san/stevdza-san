@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Stefan. I'm an Android Developer, Content Creator and Technology Enthusiast. 
+- 👋 Hi, my name is Stefan. I'm a Kotlin Multiplatform Developer, Content Creator and Technology Enthusiast. 
 - Love sharing my knowledge with others, and always willing to learn more as well.
 - 📫 Find me on YouTube: https://www.youtube.com/c/StevdzaSan
 - 🌟 Check out my online courses: https://stevdza-san.com
